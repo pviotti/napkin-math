@@ -18,7 +18,7 @@ clap = "*"
 jemallocator = "*"
 libc = "*"
 regex = "*"
-sha2 = "0.8"
+sha2 = "0.9"
 crc32fast = "*"
 
 [target.'cfg(target_os = "linux")'.dependencies]
